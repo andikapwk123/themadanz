@@ -2,10 +2,10 @@
 
 ![Preview](https://files.catbox.moe/bl83or.jpg)
 
-Selamat datang di Installer Theme Otomatis by **RENDZZ OFFICIAL**.
+Selamat datang di Installer Theme Otomatis by **Danz Official**.
 
 🎥 YouTube Creator Resmi :  
-https://youtube.com/@renmodz45
+https://youtube.com/@--
 
 Script ini dibuat untuk mempermudah pemasangan theme pada panel secara cepat, praktis, dan tanpa konfigurasi manual yang ribet.  
 Cocok untuk kamu yang ingin hasil instan tanpa takut salah edit file.
@@ -19,4 +19,4 @@ Dirancang dengan sistem otomatis agar proses berjalan lancar hanya dengan satu p
 Cukup jalankan perintah berikut di terminal VPS kamu:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/RendzzXs/Installtheme/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/andikapwk123/Installtheme/main/install.sh)
