@@ -85,14 +85,14 @@ start_script() {
   echo -e "${BOLD}${BLUE}[+] =============================================== [+]${NC}"
   echo -e "${BOLD}${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BOLD}${BLUE}[+]                AUTO INSTALLER THEME             [+]${NC}"
-  echo -e "${BOLD}${BLUE}[+]                  © RENDZZ OFFC                  [+]${NC}"
+  echo -e "${BOLD}${BLUE}[+]                  © Dika OFFC                  [+]${NC}"
   echo -e "${BOLD}${BLUE}[+]                                                 [+]${NC}"
   echo -e "${BOLD}${BLUE}[+] =============================================== [+]${NC}"
   echo -e ""
   echo -e "Script ini dibuat untuk mempermudah penginstalasian tema pterodactyl."
   echo -e "Mengalami eror? Lapor ke admin agar diperbaiki."
   echo -e ""
-  echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠: @rendzz_offc"
+  echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠: @"
   sleep 2
 
   print_info "Menginstall dan mengupdate jq..."
@@ -123,13 +123,13 @@ start_script() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BOLD}${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BOLD}${BLUE}[+]               RENDZZ OFFC LICENSE               [+]${NC}"
+  echo -e "${BOLD}${BLUE}[+]               Dika OFFC LICENSE               [+]${NC}"
   echo -e "${BOLD}${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${BOLD}${YELLOW}MASUKKAN AKSES TOKEN: ${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "rendzzoffc" ]; then
+  if [ "$USER_TOKEN" = "Dika" ]; then
     echo -e "${BOLD}${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${BOLD}${GREEN}Token yang anda masukkan salah.${NC}"
