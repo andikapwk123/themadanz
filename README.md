@@ -19,4 +19,4 @@ Dirancang dengan sistem otomatis agar proses berjalan lancar hanya dengan satu p
 Cukup jalankan perintah berikut di terminal VPS kamu:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/andikapwk123/Installtheme/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/andikapwk123/themadanz/refs/heads/main/install.sh)
